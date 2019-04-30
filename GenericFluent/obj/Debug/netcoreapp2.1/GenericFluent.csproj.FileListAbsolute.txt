@@ -1,0 +1,10 @@
+C:\guhtol\FluentValidation\GenericFluent\bin\Debug\netcoreapp2.1\GenericFluent.deps.json
+C:\guhtol\FluentValidation\GenericFluent\bin\Debug\netcoreapp2.1\GenericFluent.runtimeconfig.json
+C:\guhtol\FluentValidation\GenericFluent\bin\Debug\netcoreapp2.1\GenericFluent.runtimeconfig.dev.json
+C:\guhtol\FluentValidation\GenericFluent\bin\Debug\netcoreapp2.1\GenericFluent.dll
+C:\guhtol\FluentValidation\GenericFluent\obj\Debug\netcoreapp2.1\GenericFluent.csproj.CoreCompileInputs.cache
+C:\guhtol\FluentValidation\GenericFluent\obj\Debug\netcoreapp2.1\GenericFluent.AssemblyInfoInputs.cache
+C:\guhtol\FluentValidation\GenericFluent\obj\Debug\netcoreapp2.1\GenericFluent.AssemblyInfo.cs
+C:\guhtol\FluentValidation\GenericFluent\bin\Debug\netcoreapp2.1\GenericFluent.pdb
+C:\guhtol\FluentValidation\GenericFluent\obj\Debug\netcoreapp2.1\GenericFluent.dll
+C:\guhtol\FluentValidation\GenericFluent\obj\Debug\netcoreapp2.1\GenericFluent.pdb
